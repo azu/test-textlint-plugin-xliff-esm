@@ -1,0 +1,9 @@
+{
+  "plugins": {
+    "xliff": true
+  },
+  "filters": {},
+  "rules": {
+    "textlint-rule-no-hankaku-kana": true
+  }
+}
